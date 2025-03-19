@@ -1,8 +1,5 @@
-Here's a professional **README.md** file for your AI Agent project:  
 
----
-
-# **AI Web Summarizer 🚀**  
+# **AI Agent for summary - Zocket Assignment 🚀**  
 An AI-powered agent that extracts and summarizes key information from any given webpage.  
 
 ## **🔹 Overview**  

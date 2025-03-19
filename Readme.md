@@ -4,12 +4,12 @@ An AI-powered agent that extracts and summarizes key information from any given 
 
 ## **🔹 Overview**  
 This project is part of an **AI/ML intern assignment**, demonstrating expertise in **web scraping, NLP, embeddings, vector storage, and LLM-powered summarization**. The AI agent:  
-✅ Accepts a **URL as input**  
-✅ Scrapes and **cleans webpage content**  
-✅ Converts text into **vector embeddings (FAISS)**  
-✅ Retrieves **key information** using **semantic search**  
-✅ Generates a **concise summary** using an LLM (Hugging Face API)  
-✅ Provides a **user-friendly Streamlit UI**  
+- Accepts a **URL as input**  
+- Scrapes and **cleans webpage content**  
+- Converts text into **vector embeddings (FAISS)**  
+- Retrieves **key information** using **semantic search**  
+- Generates a **concise summary** using an LLM (Hugging Face API)  
+- Provides a **user-friendly Streamlit UI**  
 
 ## **🔹 Tech Stack & Libraries**  
 | **Category** | **Tools & Libraries** |
@@ -85,19 +85,8 @@ streamlit run app.py
 - Displays extracted **key information** and **generated summary**.  
 
 ---
-<!-- 
-## **🔹 Example Run**  
 
-### **Input URL**  
-🔗 [Mint-News on Gold Price](https://www.livemint.com/market/stock-market-news/gold-price-surges-to-90-000-per-10-grams-how-to-trade-amid-rising-prices-11742370589779.html)   -->
 
-<!-- ### **Extracted Key Information**  
-📌 *"Organizers of Leeds Festival of Gothica (LFOG) amend application process due to complaints about AI-generated art at their Alternative Market..."*   -->
-
-<!-- ### **Generated Summary**  
-📝 *"Leeds Festival of Gothica revised its vendor application process after receiving community complaints about AI-generated artwork. The event now requires vendors to disclose AI usage in their submissions."*  
-
---- -->
 
 ## **🔹 Why This Project Stands Out?**  
 ✔️ **Modular & Scalable** – Each component (scraper, vector storage, summarization) is independent.  

@@ -1,5 +1,5 @@
 
-# **AI Agent for summary - Zocket Assignment 🚀**  
+# **AI Web Summarizer**  
 An AI-powered agent that extracts and summarizes key information from any given webpage.  
 
 ## **🔹 Overview**  

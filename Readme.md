@@ -3,7 +3,7 @@
 An AI-powered agent that extracts and summarizes key information from any given webpage.  
 
 ## **🔹 Overview**  
-This project is part of an **AI/ML intern assignment**, demonstrating expertise in **web scraping, NLP, embeddings, vector storage, and LLM-powered summarization**. The AI agent:  
+This project, demonstrates expertise in **web scraping, NLP, embeddings, vector storage, and LLM-powered summarization**. The AI agent:  
 - Accepts a **URL as input**  
 - Scrapes and **cleans webpage content**  
 - Converts text into **vector embeddings (FAISS)**  
